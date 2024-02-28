@@ -6,6 +6,10 @@ Each product was rated on the below scale using publicly available information b
 
 I am not associated with any of the products listed in this document, this is simply a collection of information that is useful to me, and may be useful to others, in the analysis and selection of a SAST/DAST product.
 
+## Format
+
+This document is a vanilla excel spreadsheet that does not contain any macros or scripts. It is intended to be easily readable and editable by anyone with a basic understanding of excel.
+
 ## Products Rated
     - CheckMarx One Platform
     - Veracode
